@@ -16,12 +16,12 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "Rahul_JI"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254762016957"
+      "value": "919356730236"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": false,
-      "value": ""
+      "value": "Gifted~t3e2nWAu"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -51,17 +51,17 @@
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
@@ -76,7 +76,7 @@
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_REACT": {
       "description": "Put value to true or false",
@@ -86,7 +86,7 @@
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "PREFIX": {
       "description": "You can leave blank for bot to use multiple prefixes",
@@ -96,7 +96,7 @@
      "DEPLOYMENT_PLATFORM": {
       "description": "Leave the value to default unless otherwise. ",
       "required": true,
-      "value": "heroku"
+      "value": "BOT_HOSTING_PANEL"
     },
     "AUTO_REJECT_CALLS": {
       "description": "Put true if you want to reject call",
